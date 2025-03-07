@@ -1,5 +1,5 @@
 Hii 👋🏻, I'm Vedant Damedhar<br><br>
-🚀 Full stack developer | Open Source Enthusiast<br><br>🌱 I’m currently learning Backend Development and contributing to Open Source Projects<br><br>💻 Tech Stack: MERN | Django | Python | SQL | WordPress
+🚀 Full Stack Developer | MERN Stack | Python & Java Enthusiast | Open Source Contributor<br><br>🌱 I’m currently learning Backend Development and contributing to Open Source Projects<br><br>💻 Tech Stack: MERN | Django | Python | SQL | WordPress
 
 
 ## 🌐 Socials:
